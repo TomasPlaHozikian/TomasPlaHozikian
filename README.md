@@ -1,4 +1,8 @@
-## Hi there 👋
+Computer Engineering student at the University of Buenos Aires.
+
+Experience in C/C++, Python, Smalltalk and Java, object-oriented programming, data structures, TDD, design patterns, backend and frontend web development with HTML, CSS, Javascript, Python Flask, SQL, OpenAI API, LLM wrapping.
+
+Advanced level of English with Cambridge certification.
 
 <!--
 **TomasPlaHozikian/TomasPlaHozikian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
